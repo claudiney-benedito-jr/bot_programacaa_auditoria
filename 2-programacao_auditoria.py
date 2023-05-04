@@ -11,9 +11,13 @@ pyautogui.press("tab")
     
 pyautogui.press("Up")
 
+pyautogui.press("tab")
+
+pyautogui.press("tab")
+
 
 i = 1
-lojas = 480
+lojas = 490
 while i < lojas:
     #time.sleep(1)
 
@@ -23,10 +27,12 @@ while i < lojas:
 
     pyautogui.press("tab")
 
-    pyautogui.press("tab")
-
-    pyautogui.press("tab")
-
     pyautogui.press("Up")
+
+    pyautogui.press("tab")
+
+    pyautogui.press("tab")
+
+    
     
     i += 1
