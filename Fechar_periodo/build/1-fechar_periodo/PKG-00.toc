@@ -1,0 +1,65 @@
+('C:\\Users\\NT\\OneDrive\\Área de '
+ 'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\1-fechar_periodo.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\build\\1-fechar_periodo\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Program Files '
+   '(x86)\\Python\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program Files '
+   '(x86)\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Program Files '
+   '(x86)\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Program Files '
+   '(x86)\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Program Files '
+   '(x86)\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('1-fechar_periodo',
+   'C:\\Users\\NT\\OneDrive\\Área de '
+   'Trabalho\\T.I\\PYTHON\\Bots\\bot_programacaa_auditoria\\1-fechar_periodo.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
